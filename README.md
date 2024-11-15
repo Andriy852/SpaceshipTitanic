@@ -42,7 +42,7 @@ almost 80% which means our goal of having at least 79%
 score is achieved.
 
 ## Model deployment:
-The models have been deployed on Google Cloud Platform. The deployment test is included in the notebook
+The model have been deployed on Google Cloud Platform. The deployment test is included in the notebook
 
 ## Data
 The dataset for this project is provided by the Kaggle competition "Spaceship Titanic."
